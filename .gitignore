@@ -1,0 +1,11 @@
+*.dll
+*.pdb
+*.cache
+*.suo
+obj/Debug/LibSql.csproj.FileListAbsolute.txt
+
+bin/*
+obj/*
+
+DigestDataCollection/DigestDataCollection/bin/*
+DigestDataCollection/DigestDataCollection/obj/*
